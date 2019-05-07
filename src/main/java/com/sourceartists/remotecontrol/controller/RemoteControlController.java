@@ -35,4 +35,20 @@ public class RemoteControlController {
 
         robotCleanerDriver.returnToDockingStation();
     }
+
+    public void lockTheHouse(){
+
+    }
+
+    public void generateHouseStats(){
+
+    }
+
+    public void recordMovement(){
+
+    }
+
+    public void turnOnTheLights(){
+
+    }
 }
